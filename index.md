@@ -221,6 +221,12 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 <hr/>
 {% endif %}
 
+<h2 id="food">Food</h2>
+
+<p>
+We will have donuts, coffee, and afternoon snacks. Lunch is on your own though!
+</p>
+<hr/>
 
 {% comment %} 
 SURVEYS - DO NOT EDIT SURVEY LINKS 
